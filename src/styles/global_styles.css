@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.dados {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 820px;
+}
+
+.doctors_bg {
+  width: 1100px;
+  height: 100%;
+  border-radius: 0px;
+}
